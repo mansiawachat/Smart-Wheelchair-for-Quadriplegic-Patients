@@ -49,13 +49,22 @@ appropriate course of action.
 required, receive vocal orders from the patient, and carry out the task.
 • Mobility and Stability: The movement mechanism is equipped with a
 mechanum wheel and gimbal for the patients’ safety. All-directional
-movement is provided by the mechanical wheel, while three-axis stability is provided by the gimbal’s usage of gyro sensors.
+movement is provided by the mechanical wheel, while three-axis stability is provided by the gimbal’s usage of gyro sensors. 
+#3D Model- 
+The following images gives us a idea about the realworld implementation
+of wheelchair . the mecanum wheels as seen in the images improves the
+mobility of the wheelchair by providing side ways , diagonal, rotating and
+froward-backward motion. the quadriplegic patient will sit on the chair
+which is stabilised with the help of a gyro sensor and servo motors to keep
+the chair level at all times.
 
 
  ![image](https://github.com/mansiawachat/Smart-Wheelchair-for-Quadriplegic-Patients/assets/72509388/0c7d6516-8589-4611-98d2-109bf71d0146)
 
  
-![image](https://github.com/mansiawachat/Smart-Wheelchair-for-Quadriplegic-Patients/assets/72509388/753c5a8a-e0ed-448d-90c3-906b1f9a8b4c)
+![image](https://github.com/mansiawachat/Smart-Wheelchair-for-Quadriplegic-Patients/assets/72509388/753c5a8a-e0ed-448d-90c3-906b1f9a8b4c) 
+![image](https://github.com/mansiawachat/Smart-Wheelchair-for-Quadriplegic-Patients/assets/72509388/6e2ceabb-a701-4ccb-98fb-06ae15b6ffe4)
+
 
 
 ![image](https://github.com/mansiawachat/Smart-Wheelchair-for-Quadriplegic-Patients/assets/72509388/dd358570-be53-426f-959c-decfea928888)
