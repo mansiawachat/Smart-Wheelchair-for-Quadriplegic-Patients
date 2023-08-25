@@ -59,10 +59,13 @@ which is stabilised with the help of a gyro sensor and servo motors to keep
 the chair level at all times.
 
 
- ![image](https://github.com/mansiawachat/Smart-Wheelchair-for-Quadriplegic-Patients/assets/72509388/0c7d6516-8589-4611-98d2-109bf71d0146)
+
 
  
-![image](https://github.com/mansiawachat/Smart-Wheelchair-for-Quadriplegic-Patients/assets/72509388/753c5a8a-e0ed-448d-90c3-906b1f9a8b4c) 
+![image](https://github.com/mansiawachat/Smart-Wheelchair-for-Quadriplegic-Patients/assets/72509388/eb15dea1-1fe5-46d5-a2dd-8e9f700fc1a5) 
+![image](https://github.com/mansiawachat/Smart-Wheelchair-for-Quadriplegic-Patients/assets/72509388/b326e986-8ad0-49f7-936c-835a7e81d964)
+
+
 ![image](https://github.com/mansiawachat/Smart-Wheelchair-for-Quadriplegic-Patients/assets/72509388/6e2ceabb-a701-4ccb-98fb-06ae15b6ffe4)
 
 
