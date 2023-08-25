@@ -1,7 +1,7 @@
 # Smart-Wheelchair-for-Quadriplegic-Patients
 
 
-#Abstract 
+# Abstract 
 The health service sector has been continuously trying to prove and improve the service given to the Quadriplegic Patients in need of mobility
 assistance. As a result, more Efforts have been directed towards development of smart wheelchairs. This project aims to design a wheelchair which
 is controlled by a wireless connected Smartphone via Voice which replicates
